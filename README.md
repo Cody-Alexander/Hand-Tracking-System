@@ -42,11 +42,10 @@ pip install opencv-python mediapipe pyautogui numpy
 - **Gesture Detection**: Calculates the distance between the thumb and index finger to simulate mouse clicks.
 - **Mouse Movement**: Maps hand movements to screen coordinates and moves the mouse cursor accordingly.
 
-## Acknowledgments
-
--conceptbytes for tutorial and guide
-
 ## Troubleshooting
 
 - **Camera Not Opening**: Ensure your camera is connected and not being used by another application.
 - **Hand Detection Issues**: Make sure you have good lighting and the camera is positioned to clearly capture your hands.
+
+## Acknowledgments
+- **conceptbytes** for tutorial and guide
